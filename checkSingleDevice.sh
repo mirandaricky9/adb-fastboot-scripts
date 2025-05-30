@@ -1,5 +1,5 @@
 #!/bin/bash
-# A script that gets the current device's information 
+# A script that gets the current device's information via ADB
 device=$1
 
 echo "Complete Software build for device.: $device"
